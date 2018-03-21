@@ -1,7 +1,7 @@
 # HTTP-Ng-WordPress-API
 ## Angular 5 + WordPress API intergration 
 ### For using Angular in the Front-end & WordPress for Back-end development.
-
+#### GET request to fetch posts (10) from WordPress and display in Angular 5.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
 ## Development server
