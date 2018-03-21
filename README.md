@@ -1,4 +1,6 @@
-# HTTPNgWordPressAPI
+# HTTP-Ng-WordPress-API
+## Angular 5 + WordPress API intergration 
+### For using Angular in Front-end & WordPress for the Back-end development.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
 
