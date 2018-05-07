@@ -5,7 +5,8 @@
     <li *ngFor="let post of posts">
         <h2>
             <div [innerHTML]="post.title.rendered"></div>
-        </h2><br>
+        </h2>
+      <br>
 
         <div class="subtitle" [innerHTML]="post.excerpt.rendered"></div>
         <div [innerHTML]="post.content.rendered"></div>
